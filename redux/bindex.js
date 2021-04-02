@@ -1,0 +1,11 @@
+import * as pub from "./actions/publication.actions";
+import * as comm from "./actions/community.actions";
+import { PublicationNormalizer } from "./normalizer/core";
+// import {TodoProvider} from './store/app.provider';
+// window.store = store;
+// window.Provider = TodoProvider.provider;
+// window.authActions = authActions;
+// window.httpActions = httpActions;
+window.normailizer = PublicationNormalizer;
+window.pub = pub;
+window.comm = comm;

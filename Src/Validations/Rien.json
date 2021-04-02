@@ -1,0 +1,63 @@
+{
+  "__v": 0,
+  "_id": "5ee872f250f42e00243cbe3b",
+  "contenu": "4 images",
+  "createdAt": "2020-06-16T07:21:22.668Z",
+  "duree": 0,
+  "fichiers": [
+    {
+      "__v": 0,
+      "_id": "5ee872f250f42e00243cbe37",
+      "createdAt": "2020-06-16T07:21:22.591Z",
+      "mediaType": "IMG",
+      "mediaUrl": "http://nancyapi.herokuapp.com/public/ressources/publications/media_jojo_2020-06-16T07_21_13.474Z_105223546.jpg",
+      "updatedAt": "2020-06-16T07:21:22.591Z"
+    },
+    {
+      "__v": 0,
+      "_id": "5ee872f250f42e00243cbe38",
+      "createdAt": "2020-06-16T07:21:22.591Z",
+      "mediaType": "IMG",
+      "mediaUrl": "http://nancyapi.herokuapp.com/public/ressources/publications/media_jojo_2020-06-16T07_21_16.182Z_485762251.jpg",
+      "updatedAt": "2020-06-16T07:21:22.591Z"
+    },
+    {
+      "__v": 0,
+      "_id": "5ee872f250f42e00243cbe39",
+      "createdAt": "2020-06-16T07:21:22.591Z",
+      "mediaType": "IMG",
+      "mediaUrl": "http://nancyapi.herokuapp.com/public/ressources/publications/media_jojo_2020-06-16T07_21_20.297Z_936660950.jpg",
+      "updatedAt": "2020-06-16T07:21:22.591Z"
+    },
+    {
+      "__v": 0,
+      "_id": "5ee872f250f42e00243cbe3a",
+      "createdAt": "2020-06-16T07:21:22.591Z",
+      "mediaType": "IMG",
+      "mediaUrl": "http://nancyapi.herokuapp.com/public/ressources/publications/media_jojo_2020-06-16T07_21_22.329Z_643941071.jpg",
+      "updatedAt": "2020-06-16T07:21:22.591Z"
+    }
+  ],
+  "id": "5ee872f250f42e00243cbe3b",
+  "idCommunaute": null,
+  "listeCommentaires": [],
+  "listeLikes": [],
+  "nbreCommentaire": 0,
+  "nbreLike": 0,
+  "nbreResend": 0,
+  "nbreUnlike": 0,
+  "sender": {
+    "_id": "5ea4b980e3aa45002418e5ac",
+    "nbreAbonnemments": 0,
+    "nbreAbonnes": 0,
+    "nbreCommunautes": 1,
+    "nbrePublications": 0,
+    "nom": "jojo",
+    "prenom": "jojo",
+    "profilUrl": "",
+    "pseudo": "jojo"
+  },
+  "texte_message": "4 images",
+  "typePublication": 1,
+  "updatedAt": "2020-06-16T07:21:22.668Z"
+}

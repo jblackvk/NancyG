@@ -1,0 +1,13 @@
+[
+  {
+    "path": "/storage/emulated/0/DCIM/Camera/VID_20200826_175700.mp4",
+    "uri": "content://com.google.android.apps.photos.contentprovider/-1/2/content%3A%2F%2Fmedia%2Fexternal%2Fvideo%2Fmedia%2F53/ORIGINAL/NONE/145737851"
+  },
+  {
+    "fileCopyUri": "content://com.android.providers.downloads.documents/document/raw%3A%2Fstorage%2Femulated%2F0%2FDownload%2FEnregistrement.m4a",
+    "name": "Enregistrement.m4a",
+    "size": 183961,
+    "type": "audio/mpeg",
+    "uri": "content://com.android.providers.downloads.documents/document/raw%3A%2Fstorage%2Femulated%2F0%2FDownload%2FEnregistrement.m4a"
+  }
+]
